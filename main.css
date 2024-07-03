@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1110px;
+}
+
+.first_ul {
+    display: flex;
+    gap: 100px;
+
+}
+
+.wrapper {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.btn {
+    border: 5px solid red;
+    color: red;
+    padding: 15px;
+    background-color: transparent;
+    font-family: Open Sans Condensed;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 22.5px;
+    letter-spacing: 2px;
+    text-align: left;
+}
+
+.bg_main {
+    background-image: url(./image\ 4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    width: 100%;
+    height: 533px;
+}
+h1{
+    width: 500px;
+    color: white;
+}
+.wrapper-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+.btn2{
+    margin-top: 30px;
+    border: 5px solid red;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: transparent;
+    font-family: Open Sans Condensed;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 22.5px;
+    letter-spacing: 2px;
+    text-align: left;
+}
+h2{
+    text-align: center;
+    margin-top: 20px;
+}
+.img_section2{
+    margin-left: 300px;
+}
+.ota{
+    display: flex;
+}
+h3{
+    width: 67px;
+    height: 29px;
+}
+p{
+    width: 600px;
+    height: 69px;
+    
+}
+.ota2{
+    margin-left: 63px;
+    margin-top: 10px;
+}
+.box1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 900px;
+    margin: 0px auto;
+}
+.box-left{
+    width: 500px;
+    margin: 0 auto;
+}
+.Siuuuu{
+    text-align: center;
+    font-size: 50px;
+}
+.section3{
+    background-color: #0EB4C1;
+}
+iframe{
+    height: 331px;
+    margin-left: 156px;
+    margin-top: 100px;
+}
+.right{
+    display: flex;
+    background-color: white;
+    width: 400px;
+    margin-left: 200px;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+.vamos{ 
+    display: flex;
+}
+.input_siu{
+  width: 350px ;
+  margin: 20px;
+}
+.btn_siuuuuuu{
+    color: white;
+    height: 40px;
+    width: 350px ;
+    margin: 20px;
+    background-color: #38CC8B;
+}
+.second_ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-top: 20px;
+    margin-right: 100px;
+    color: aliceblue;
+}
+.otaaaaaa{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+.foooooter{
+    background-color: black;
+}
+.imgggggg{
+    margin-left: 200px;
+    margin-top: 10px;
+}
